@@ -1,8 +1,12 @@
 
 
-  I'm Pritom Roy Passionate about building real-world tech projects and exploring modern technologies. 
+ **I'm Pritom Roy**, a computer enthusiast passionate about building real-world tech projects and exploring modern technologies.
 
-🚀 Interests: Machine Learning  • AI Applications • Data & Decision Support Systems
+🚀 **Interest Areas:**
+- Machine Learning  
+- AI Applications  
+- Data & Decision Support Systems
+
  
 
 ### 📊 GitHub Stats
