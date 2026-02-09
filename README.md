@@ -28,8 +28,8 @@ I enjoy building real-world tech projects and exploring modern technologies that
 
 | Competition Name | Project Name | Achievement |
 |------------------|-------------|-------------|
-| BUET CSE FEST Hackathon 2026 | [CourseShera Learning Platform](https://github.com/rustybladez/course-shera) | Top 20 Teams 🚀 |
-| INNOVATE X Hackathon, BUBT | [EcoBite](https://github.com/pritom76/EcoBite) | Top 20 Teams 🚀 |
+| BUET CSE FEST Hackathon 2026 | [CourseShera](https://github.com/rustybladez/course-shera) | Secured a spot in the top 20 teams 🚀 |
+| INNOVATE X Hackathon, BUBT | [EcoBite](https://github.com/pritom76/EcoBite) | Secured a spot in the top 20 teams 🚀 |
 
 
 
