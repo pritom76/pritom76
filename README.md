@@ -28,9 +28,10 @@
 ## 🏆 My Competition Participation
 
 | Competition Name | Project Name | Achievement |
-|------------------|--------------|-------------|
-| BUET CSE FEST Hackathon 2026 | CourseShera | Secured a spot in the Top 20 Teams 🚀 |
-| INNOVATE X Hackathon, BUBT | EcoBite | Secured a spot in the Top 20 Teams 🚀 |
+|------------------|-------------|-------------|
+| BUET CSE FEST Hackathon 2026 | [CourseShera](https://github.com/pritom76/CourseShera) | Secured a spot in the Top 20 Teams 🚀 |
+| INNOVATE X Hackathon, BUBT | [EcoBite](https://github.com/pritom76/EcoBite) | Secured a spot in the Top 20 Teams 🚀 |
+
 
 
 
