@@ -6,7 +6,7 @@ I enjoy building real-world tech projects and exploring modern technologies that
 
 ### 🚀 Interests
 - Machine Learning  
-- Web Development (HTML,CSS,React, JavaScript)  
+- Web Development (HTML, CSS, React, JavaScript)  
 - AI-Powered Applications  
 - Data & Decision Support Systems  
 
@@ -17,9 +17,10 @@ I enjoy building real-world tech projects and exploring modern technologies that
 ![GitHub Streak](https://streak-stats.demolab.com?user=pritom76&theme=tokyonight)
 
 ### 📫 Contact Me
-- 📧 Email: pritomndc03@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/pritom-roy-10970a389  
-- 💻 Codeforces: https://codeforces.com/profile/Pritom13076
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pritomndc03@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritom-roy-10970a389)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Pritom13076)
+
 
 
 <!--
