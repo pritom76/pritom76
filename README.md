@@ -24,6 +24,13 @@ I enjoy building real-world tech projects and exploring modern technologies that
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Pritom13076)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/pritomndc03)
 
+## 🏆 My Competition Participation
+
+| Competition Name | Project Name | Achievement |
+|------------------|-------------|-------------|
+| BUET CSE FEST Hackathon 2026 | [CourseShera Learning Platform](https://github.com/rustybladez/course-shera) | Top 20 Teams 🚀 |
+| INNOVATE X Hackathon, BUBT | [EcoBite](https://github.com/pritom76/EcoBite) | Top 20 Teams 🚀 |
+
 
 
 <!--
