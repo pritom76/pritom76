@@ -27,10 +27,10 @@
 
 ## 🏆 My Competition Participation
 
-| Competition Name | Project Name | Achievement |
-|------------------|-------------|-------------|
+| Competition Name             | Project Name                                               | Achievement |
+|----------------            --|-------------                                               |-------------|
 | BUET CSE FEST Hackathon 2026 | [CourseShera](https://github.com/rustybladez/course-shera) | Secured a spot in the top 20 teams 🚀 |
-| INNOVATE X Hackathon, BUBT | [EcoBite](https://github.com/pritom76/EcoBite) | Secured a spot in the top 20 teams 🚀 |
+| INNOVATE X Hackathon, BUBT   | [EcoBite](https://github.com/pritom76/EcoBite)             | Secured a spot in the top 20 teams 🚀 |
 
 
 
