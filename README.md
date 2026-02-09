@@ -11,7 +11,8 @@ I enjoy building real-world tech projects and exploring modern technologies that
 - Data & Decision Support Systems  
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritom76&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pritom76&show_icons=true&theme=tokyonight&hide_border=true)
+
 
 
 ### 🔥 GitHub Streak
