@@ -7,7 +7,7 @@
 - AI Applications  
 - Data & Decision Support Systems
 
-  📄 **Resume:** [View My Resume](https://github.com/pritom76/pritom76/raw/main/Pritom_Roy_Resume.pdf)
+  📄 **Resume:** [View My Resume](https://github.com/pritom76/pritom76/raw/main/pritom_updated_resume.pdf)
 
  
 
