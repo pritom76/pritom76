@@ -1,14 +1,9 @@
-# Hi there 👋 I'm Pritom
 
-🎓 ICT Student | 🤖 AI Enthusiast  
 
-I enjoy building real-world tech projects and exploring modern technologies that create meaningful impact.
+  I'm Pritom Roy Passionate about building real-world tech projects and exploring modern technologies. 
 
-### 🚀 Interests
-- Machine Learning  
-- Web Development (HTML, CSS, React, JavaScript)  
-- AI-Powered Applications  
-- Data & Decision Support Systems  
+🚀 Interests: Machine Learning  • AI Applications • Data & Decision Support Systems
+ 
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pritom76&show_icons=true&theme=tokyonight&hide_border=true)
