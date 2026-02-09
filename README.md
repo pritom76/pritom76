@@ -6,12 +6,9 @@ I enjoy building real-world tech projects and exploring modern technologies that
 
 ### 🚀 Interests
 - Machine Learning  
-- Web Development (React, JavaScript)  
+- Web Development (HTML,CSS,React, JavaScript)  
 - AI-Powered Applications  
 - Data & Decision Support Systems  
-
-### 🌍 Portfolio
-🔗 [My Portfolio](https://your-portfolio-link.com)
 
 ### 📊 GitHub Stats
 ![Pritom's GitHub stats](https://github-readme-stats.vercel.app/api?username=pritom76&show_icons=true&theme=tokyonight)
@@ -22,7 +19,7 @@ I enjoy building real-world tech projects and exploring modern technologies that
 ### 📫 Contact Me
 - 📧 Email: pritomndc03@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/pritom-roy-10970a389  
-- 💻 Codeforces: https://co
+- 💻 Codeforces: https://codeforces.com/profile/Pritom13076
 
 
 <!--
